@@ -1,6 +1,5 @@
 ---
 default: true
-fix: true
 MD013:
   code_blocks: false
   tables: false
